@@ -11,7 +11,7 @@ the social and ethical implications of their research and development, and of re
 
 ## Tutorial Materials
 
-* [RecSys 2023 Tutorial Slides](RecSys Tutorial 2023_ Trustworthy Recommender Systems.pdf)
+* [RecSys 2023 Tutorial Slides](RecSys_2023_TARS_slides.pdf)
 * [RecSys 2023 Proceedings Paper](RecSys_2023_Tutorial__Trustworthy_Recommender_Systems.pdf)
 
 ## Organization
